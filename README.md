@@ -26,5 +26,5 @@
 [<img align="left" alt="Rio Pramana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rio Pramana | Gmail (riopramana1021@gmail.com)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/riopramana/
 [gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=riopramana1021@gmail.com&su=SUBJECT&body=BODY
