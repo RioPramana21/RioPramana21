@@ -1,4 +1,8 @@
-<h1>Hi, I'm Rio! <br/><a href="https://www.linkedin.com/in/riopramana/">Computer Science Student</a>, <a href="https://riopramana21.github.io/portfolio/">with focus in AI</a></h1>
+<h1>Hi, I'm Rio! <br/><a href="https://www.linkedin.com/in/riopramana/">Computer Science Graduate</a>, specializing in AI & Data Science</h1>
+
+🎓 CS graduate with a strong academic focus on AI  
+🧠 Passionate about solving real-world problems through Data, AI, and ML  
+📍 Based in Jakarta (GMT+7)
 
 <h2>👨‍💻 Projects:</h2>
 
