@@ -9,12 +9,17 @@
 <h2>Top Projects (AI, Data Science, and Systems)</h2>
 
 - <b>[Breaking Bottlenecks: Predicting Late Deliveries at Olist](https://github.com/PurwadhikaDev/AlphaGroup_DTI_OL_02_FinalProject)</b>
+
   Final capstone project addressing a real-world business problem at Olist, a Brazilian e-commerce startup with rising late deliveries and low customer retention. The project combines exploratory data analysis, operational diagnostics, and a machine learning classifier (Random Forest) to predict at-risk deliveries using only order-time data.
+
   Delivered actionable business strategies such as proactive notifications and voucher incentives to reduce 1-star reviews and improve retention. Includes an interactive Tableau dashboard and a Streamlit app for real-time order scoring.
+
   <sub>Python • ML • Business Analytics • Streamlit • Tableau • Public</sub>
 
 - <b>[Ctrl+Price: ML-Powered Used Car Price Optimization](https://github.com/RioPramana21/Ctrl-Price-Taking-Control-of-Used-Car-Valuations-with-ML)</b>
+
   Bootcamp project to predict fair market prices of used cars in Saudi Arabia using CatBoost, SHAP, and a Streamlit demo app. Focused on reducing pricing errors to accelerate sales and improve profitability for online car marketplaces.
+
   <sub>Python • Machine Learning • Streamlit • Public</sub>
 
 - <b>[Beyond the Crowd: Airbnb Hidden Gems in Bangkok](https://github.com/RioPramana21/Beyond-the-Crowd-How-to-Spot-Airbnb-Hidden-Gems-Set-Winning-Prices-in-Bangkok)</b>  
