@@ -1,104 +1,103 @@
-<h1>Hi, I'm Rio! <br/><a href="https://www.linkedin.com/in/riopramana/">Computer Science Graduate</a>, specializing in AI & Data Science</h1>
+# Hi, I'm Rio! 👋  
+**Computer Science Graduate | AI & Data Science Enthusiast**  
+[LinkedIn](https://www.linkedin.com/in/riopramana/) • [Email](mailto:riopramana1021@gmail.com)
 
-🎓 CS graduate with a strong academic focus on Artificial Intelligence
-🧠 Passionate about solving real-world problems through Data and AI
-📍 Based in Jakarta (GMT+7)
-
----
-
-<h2>Top Projects (AI, Data Science, and Systems)</h2>
-
-- <b>[Breaking Bottlenecks: Predicting Late Deliveries at Olist](https://github.com/PurwadhikaDev/AlphaGroup_DTI_OL_02_FinalProject)</b>
-
-  Final capstone project addressing a real-world business problem at Olist, a Brazilian e-commerce startup with rising late deliveries and low customer retention. The project combines exploratory data analysis, operational diagnostics, and a machine learning classifier (Random Forest) to predict at-risk deliveries using only order-time data.
-
-  Delivered actionable business strategies such as proactive notifications and voucher incentives to reduce 1-star reviews and improve retention. Includes an interactive Tableau dashboard and a Streamlit app for real-time order scoring.
-
-  <sub>Python • ML • Business Analytics • Streamlit • Tableau • Public</sub>
-
-- <b>[Ctrl+Price: ML-Powered Used Car Price Optimization](https://github.com/RioPramana21/Ctrl-Price-Taking-Control-of-Used-Car-Valuations-with-ML)</b>
-
-  Bootcamp project to predict fair market prices of used cars in Saudi Arabia using CatBoost, SHAP, and a Streamlit demo app. Focused on reducing pricing errors to accelerate sales and improve profitability for online car marketplaces.
-
-  <sub>Python • Machine Learning • Streamlit • Public</sub>
-
-- <b>[Beyond the Crowd: Airbnb Hidden Gems in Bangkok](https://github.com/RioPramana21/Beyond-the-Crowd-How-to-Spot-Airbnb-Hidden-Gems-Set-Winning-Prices-in-Bangkok)</b>  
-  Capstone project focused on pricing analysis and identifying profitable Airbnb neighborhoods using Python, Geospatial analysis, Statistics, and Tableau.  
-  <sub>Jupyter Notebook • Bootcamp • Public</sub>
-
-- <b>[Data Science with R](https://github.com/RioPramana21/data-science-with-r)</b>  
-  Projects and practice problems using R for regression modeling and exploratory analysis.  
-  <sub>R • Academic • Public</sub>
-
-- <b>[Machine Learning](https://github.com/RioPramana21/machine-learning)</b>  
-  Contains supervised and unsupervised learning experiments.  
-  <sub>Python • Academic • Public</sub>
-
-- <b>[Natural Language Processing](https://github.com/RioPramana21/natural-language-processing)</b>  
-  Projects and notebooks for text preprocessing, sentiment analysis, and classification using NLP techniques.  
-  <sub>Python • Academic • Public</sub>
-
-- <b>[Deep Learning](https://github.com/RioPramana21/deep-learning)</b>  
-  Practice projects using TensorFlow/Keras for CNNs and other DL architectures.  
-  <sub>Python • Academic • Public</sub>
-
-- <b>[Computer Vision](https://github.com/RioPramana21/computer-vision)</b>  
-  Image classification, object detection, and OpenCV projects.  
-  <sub>Python • Academic • Public</sub>
-
-- <b>[ThesisBuddy (Alibaba GenAI Hackathon Project)](https://github.com/RioPramana21/ThesisBuddy)</b>  
-  A Generative AI tool to help students plan and write their thesis using RAG + LLM.  
-  <sub>HTML • Hackathon • Public</sub>
-
-- <b>[Database Systems](https://github.com/RioPramana21/database-systems)</b>  
-  SQL practice and a case project focused on real-world query building and normalization.  
-  <sub>SQL • Academic • Public</sub>
-
-- <b>[Freelancer Management System](https://github.com/RioPramana21/Freelancer-Management-System)</b>  
-  Terminal-based Python CRUD app for managing freelancer data, built as a fundamentals project.  
-  <sub>Python • Bootcamp • Public</sub>
-
-- <b>[RISC-V Architecture Simulator](https://github.com/RioPramana21/computer-architectures)</b>  
-  A simulation of RISC-V architecture behavior using Python, built for a computer architecture course.  
-  <sub>Python • Academic • Public</sub>
-
-- <b>[Java OOP](https://github.com/RioPramana21/java-oop)</b>  
-  Object-Oriented Programming exercises and applications written in Java.  
-  <sub>Java • Academic • Public</sub>
-
-- <b>Centralized ID API</b> *(Private)*  
-  A Flask-based centralized API used to manage and sync ID values across systems in a data engineering environment.  
-  <sub>Python • Internship • Private</sub>
+🎓 **S.Kom. (B.Sc.) Computer Science (AI Focus)** – BINUS University, Exchange Student at Sungkyunkwan University (SKKU)  
+🧠 Passionate about solving real-world problems with **Machine Learning, NLP, and Data Science**  
+📍 Based in Jakarta, GMT+7
 
 ---
 
-<h2>Additional Engineering, Web, & UI Projects</h2>
+## 🚀 Featured Projects
+My top works showcasing **real-world problem solving, AI/ML expertise, and deployment**.
 
-- <b>[Airplane Mode (Frappe Certification Project)](https://github.com/RioPramana21/airplane_mode)</b>  
-  Final project for Certified Frappe Developer, building a full-featured web app using Frappe Framework.  
-  <sub>Python • Certification • Public</sub>
+- **[Breaking Bottlenecks: Predicting Late Deliveries at Olist](https://github.com/PurwadhikaDev/AlphaGroup_DTI_OL_02_FinalProject)**  
+  Real-world e-commerce late-delivery prediction for Olist (Brazil) using Random Forest + operational diagnostics. Delivered actionable business strategies, Tableau dashboard, and a Streamlit app.  
+  *Python • ML • Streamlit • Tableau*
 
-- <b>Video Script Crew</b> *(Private)*  
-  A multi-agent AI system using CrewAI that automates video script creation through research and generation.  
-  <sub>Python • Internship • Private</sub>
+- **[Ctrl+Price: ML-Powered Used Car Price Optimization](https://github.com/RioPramana21/Ctrl-Price-Taking-Control-of-Used-Car-Valuations-with-ML)**  
+  Predicted fair market prices for used cars in Saudi Arabia with CatBoost & SHAP explainability. Streamlit app for instant predictions.  
+  *Python • ML • SHAP • Streamlit*
 
-- <b>Keyword Web Scraper</b> *(Private)*  
-  Scraper built to extract and analyze keywords from 7,000+ pages in under 5 minutes.  
-  <sub>Python • Internship • Private</sub>
+- **[ThesisBuddy (Alibaba GenAI Hackathon Project)](https://github.com/RioPramana21/ThesisBuddy)**  
+  Generative AI tool using RAG + LLM to help students plan and write their thesis.  
+  *Python • LLM • RAG*
 
-- <b>Hackathon Dataset Scraper</b> *(Private)*  
-  A tool built to crawl and categorize thousands of public datasets for internal hackathon prep.  
-  <sub>Python/HTML • Internship • Private</sub>
+- **[Beyond the Crowd: Airbnb Hidden Gems in Bangkok](https://github.com/RioPramana21/Beyond-the-Crowd-How-to-Spot-Airbnb-Hidden-Gems-Set-Winning-Prices-in-Bangkok)**  
+  Geospatial & pricing analysis to identify profitable Airbnb neighborhoods.  
+  *Python • Geospatial • Tableau*
 
-- [Web Programming (Laravel, HTML, CSS, JS)](https://github.com/RioPramana21/web-programming)  
-- [UI/UX Design Portfolio](https://github.com/RioPramana21/ui-ux-design)
+- **Insurance Charges Analysis & Prediction** *(Inside [Data Science with R](https://github.com/RioPramana21/data-science-with-r))*  
+  Final SKKU project — statistical tests, regression diagnostics, residual analysis, and Random Forest model for predicting insurance charges.  
+  *R • EDA • Regression • Random Forest*
+
+- **Emotion Recognition on Indonesian Reviews** *(Inside [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing))*  
+  Undergraduate thesis published in an international journal — compared BiLSTM, BERT, and ensemble methods for Indonesian text emotion recognition.  
+  *Python • NLP • Deep Learning • Research Publication*
+
+- **Neural Network Fraud Detection** *(Inside [Deep Learning](https://github.com/RioPramana21/deep-learning))*  
+  Custom PyTorch architecture for fraud classification, with manual tuning and network structure modifications.  
+  *Python • PyTorch • Neural Networks*
 
 ---
 
-<h2>🤳 Connect with Me</h2>
+## 📂 Other AI, Data, and Engineering Projects
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+### **AI & Data**
+- **Video Script Crew** *(Private)* — Multi-agent AI system using CrewAI to automate research and generate video scripts.  
+  *Python • Multi-Agent Systems • Internship*
 
-[linkedin]: https://www.linkedin.com/in/riopramana/  
-[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=riopramana1021@gmail.com&su=SUBJECT&body=BODY
+- **Keyword Web Scraper** *(Private)* — Scraped 7,000+ pages in under 5 minutes for keyword analysis.  
+  *Python • Web Scraping • Internship*
+
+- **Hackathon Dataset Scraper** *(Private)* — Crawled and categorized thousands of datasets for hackathon preparation.  
+  *Python • HTML • Internship*
+
+- [Database Systems](https://github.com/RioPramana21/database-systems) — SQL practice and a real-world case project.  
+  *SQL • Academic*
+
+---
+
+### **Engineering, Web & UI**
+- [Airplane Mode](https://github.com/RioPramana21/airplane_mode) — Certified Frappe Developer final project.  
+  *Python • Frappe Framework*
+
+- [Freelancer Management System](https://github.com/RioPramana21/Freelancer-Management-System) — Python CRUD app for freelancer data management.  
+  *Python • Bootcamp*
+
+- [Computer Architectures](https://github.com/RioPramana21/computer-architectures) — RISC-V simulator in Python.  
+  *Python • Academic*
+
+- [Java OOP](https://github.com/RioPramana21/java-oop) — Object-Oriented Programming exercises.  
+  *Java • Academic*
+
+- [Web Programming](https://github.com/RioPramana21/web-programming) — Laravel, HTML, CSS, JavaScript.  
+  *PHP • Web Development*
+
+- [UI/UX Design Portfolio](https://github.com/RioPramana21/ui-ux-design) — UI/UX mockups & design works.  
+  *UI/UX • Design Tools*
+
+---
+
+## 📚 Learning & Practice Repos
+Collections of experiments, exercises, and projects from my university classes.
+
+- [Machine Learning](https://github.com/RioPramana21/machine-learning) — Supervised & unsupervised learning exercises.  
+- [Deep Learning](https://github.com/RioPramana21/deep-learning) — CNN, LSTM, segmentation, fraud detection.  
+- [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing) — Preprocessing, sentiment analysis, classification.  
+- [Computer Vision](https://github.com/RioPramana21/computer-vision) — Image classification, object detection, OpenCV.  
+- [Data Science with R](https://github.com/RioPramana21/data-science-with-r) — R-based analysis and modeling.
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, R, SQL, Java, JavaScript, C, HTML, CSS
+**Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+**Visualization:** Tableau, Matplotlib, Seaborn, Geopandas  
+**Other Tools:** Git/Github, Streamlit, Flask, Frappe, PostgreSQL, MariaDB, OpenCV
+
+---
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/riopramana/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:riopramana1021@gmail.com)
