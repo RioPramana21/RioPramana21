@@ -1,6 +1,6 @@
 # Hi, I'm Rio! 👋  
 **Computer Science Graduate | AI & Data Science Enthusiast**  
-[LinkedIn](https://www.linkedin.com/in/riopramana/) • [Email](mailto:riopramana1021@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/riopramana/)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:riopramana1021@gmail.com)
 
 🎓 **S.Kom. (B.Sc.) Computer Science (AI Focus)** – BINUS University, Exchange Student at Sungkyunkwan University (SKKU)  
 🧠 Passionate about solving real-world problems with **Machine Learning, NLP, and Data Science**  
@@ -93,21 +93,10 @@ Collections of experiments, exercises, and projects from my university classes.
 ## 🛠️ Tech Stack
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![Frappe](https://img.shields.io/badge/Frappe-009688?logo=frappe&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  ![Frappe](https://img.shields.io/badge/Frappe-009688?logo=frappe&logoColor=white)  
 
 **Languages:** Python, R, SQL, Java, JavaScript, C, HTML, CSS
 
@@ -120,11 +109,9 @@ Collections of experiments, exercises, and projects from my university classes.
 ---
 
 ## 📊 GitHub Stats
-![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioPramana21&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RioPramana21&layout=compact&theme=tokyonight)
+![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioPramana21&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RioPramana21&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/riopramana/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:riopramana1021@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/riopramana/)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:riopramana1021@gmail.com)
