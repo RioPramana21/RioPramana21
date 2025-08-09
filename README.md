@@ -18,6 +18,7 @@
 
 🎓 **S.Kom. (B.Sc.) Computer Science (AI Focus)** - BINUS University, Exchange Student at Sungkyunkwan University (SKKU)  
 🧠 Passionate about solving real-world problems with **Machine Learning, NLP, and Data Science**  [![GitHub Rio](https://img.shields.io/github/followers/RioPramana21?label=follow&style=social)](https://github.com/RioPramana21)
+
 📍 Based in Jakarta, GMT+7
 
 ---
