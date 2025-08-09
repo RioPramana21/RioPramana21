@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="Rio Pramana | AI & Data Science" width="100%" />
-</p>
-
 # Hi, I'm Rio! 👋  
 **Computer Science Graduate | AI & Data Science Enthusiast**  
 
