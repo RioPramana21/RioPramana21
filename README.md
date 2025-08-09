@@ -1,6 +1,20 @@
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Rio Pramana | AI & Data Science" width="100%" />
+</p>
+
 # Hi, I'm Rio! 👋  
 **Computer Science Graduate | AI & Data Science Enthusiast**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/riopramana/)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:riopramana1021@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riopramana/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:riopramana1021@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
 🎓 **S.Kom. (B.Sc.) Computer Science (AI Focus)** – BINUS University, Exchange Student at Sungkyunkwan University (SKKU)  
 🧠 Passionate about solving real-world problems with **Machine Learning, NLP, and Data Science**  
@@ -27,15 +41,15 @@ My top works showcasing **real-world problem solving, AI/ML expertise, and deplo
   Geospatial & pricing analysis to identify profitable Airbnb neighborhoods.  
   *Python • Geospatial • Tableau*
 
-- **Insurance Charges Analysis & Prediction** *(Inside [Data Science with R](https://github.com/RioPramana21/data-science-with-r))*  
-  Final SKKU project — statistical tests, regression diagnostics, residual analysis, and Random Forest model for predicting insurance charges.  
+- **[Insurance Charges Analysis & Prediction](https://github.com/RioPramana21/data-science-with-r/tree/main/Analyzing%20Insurance%20Charges%20and%20Building%20Predictive%20Model)** *(Inside [Data Science with R](https://github.com/RioPramana21/data-science-with-r))*  
+  Final SKKU project - statistical tests, regression diagnostics, residual analysis, and Random Forest model for predicting insurance charges.  
   *R • EDA • Regression • Random Forest*
 
-- **Emotion Recognition on Indonesian Reviews** *(Inside [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing))*  
-  Undergraduate thesis published in an international journal — compared BiLSTM, BERT, and ensemble methods for Indonesian text emotion recognition.  
+- **[Emotion Recognition on Indonesian Reviews using BERT & Ensemble](https://github.com/RioPramana21/natural-language-processing/tree/main/(Thesis)%20Emotion%20Recognition%20on%20Indonesian%20Product%20Review%20using%20BiLSTM%2C%20BERT%2C%20and%20Ensemble%20Method)** *(Inside [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing))*  
+  Undergraduate thesis published in an international journal - compared BiLSTM, BERT, and ensemble methods for Indonesian text emotion recognition.  
   *Python • NLP • Deep Learning • Research Publication*
 
-- **Neural Network Fraud Detection** *(Inside [Deep Learning](https://github.com/RioPramana21/deep-learning))*  
+- **[Neural Network Fraud Detection](https://github.com/RioPramana21/deep-learning/blob/main/Neural%20Network%20Predict%20Fraud.ipynb)** *(Inside [Deep Learning](https://github.com/RioPramana21/deep-learning))*  
   Custom PyTorch architecture for fraud classification, with manual tuning and network structure modifications.  
   *Python • PyTorch • Neural Networks*
 
@@ -44,37 +58,37 @@ My top works showcasing **real-world problem solving, AI/ML expertise, and deplo
 ## 📂 Other AI, Data, and Engineering Projects
 
 ### **AI & Data**
-- **Video Script Crew** *(Private)* — Multi-agent AI system using CrewAI to automate research and generate video scripts.  
+- **Video Script Crew** *(Private)* - Multi-agent AI system using CrewAI to automate research and generate video scripts.  
   *Python • Multi-Agent Systems • Internship*
 
-- **Keyword Web Scraper** *(Private)* — Scraped 7,000+ pages in under 5 minutes for keyword analysis.  
+- **Keyword Web Scraper** *(Private)* - Scraped 7,000+ pages in under 5 minutes for keyword analysis.  
   *Python • Web Scraping • Internship*
 
-- **Hackathon Dataset Scraper** *(Private)* — Crawled and categorized thousands of datasets for hackathon preparation.  
+- **Hackathon Dataset Scraper** *(Private)* - Crawled and categorized thousands of datasets for hackathon preparation.  
   *Python • HTML • Internship*
 
-- [Database Systems](https://github.com/RioPramana21/database-systems) — SQL practice and a real-world case project.  
+- [Database Systems](https://github.com/RioPramana21/database-systems) - SQL practice and a real-world case project.  
   *SQL • Academic*
 
 ---
 
 ### **Engineering, Web & UI**
-- [Airplane Mode](https://github.com/RioPramana21/airplane_mode) — Certified Frappe Developer final project.  
+- [Airplane Mode](https://github.com/RioPramana21/airplane_mode) - Certified Frappe Developer final project.  
   *Python • Frappe Framework*
 
-- [Freelancer Management System](https://github.com/RioPramana21/Freelancer-Management-System) — Python CRUD app for freelancer data management.  
+- [Freelancer Management System](https://github.com/RioPramana21/Freelancer-Management-System) - Python CRUD app for freelancer data management.  
   *Python • Bootcamp*
 
-- [Computer Architectures](https://github.com/RioPramana21/computer-architectures) — RISC-V simulator in Python.  
+- [Computer Architectures](https://github.com/RioPramana21/computer-architectures) - RISC-V simulator in Python.  
   *Python • Academic*
 
-- [Java OOP](https://github.com/RioPramana21/java-oop) — Object-Oriented Programming exercises.  
+- [Java OOP](https://github.com/RioPramana21/java-oop) - Object-Oriented Programming exercises.  
   *Java • Academic*
 
-- [Web Programming](https://github.com/RioPramana21/web-programming) — Laravel, HTML, CSS, JavaScript.  
+- [Web Programming](https://github.com/RioPramana21/web-programming) - Laravel, HTML, CSS, JavaScript.  
   *PHP • Web Development*
 
-- [UI/UX Design Portfolio](https://github.com/RioPramana21/ui-ux-design) — UI/UX mockups & design works.  
+- [UI/UX Design Portfolio](https://github.com/RioPramana21/ui-ux-design) - UI/UX mockups & design works.  
   *UI/UX • Design Tools*
 
 ---
@@ -82,11 +96,11 @@ My top works showcasing **real-world problem solving, AI/ML expertise, and deplo
 ## 📚 Learning & Practice Repos
 Collections of experiments, exercises, and projects from my university classes.
 
-- [Machine Learning](https://github.com/RioPramana21/machine-learning) — Supervised & unsupervised learning exercises.  
-- [Deep Learning](https://github.com/RioPramana21/deep-learning) — CNN, LSTM, segmentation, fraud detection.  
-- [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing) — Preprocessing, sentiment analysis, classification.  
-- [Computer Vision](https://github.com/RioPramana21/computer-vision) — Image classification, object detection, OpenCV.  
-- [Data Science with R](https://github.com/RioPramana21/data-science-with-r) — R-based analysis and modeling.
+- [Machine Learning](https://github.com/RioPramana21/machine-learning) - Supervised & unsupervised learning exercises.  
+- [Deep Learning](https://github.com/RioPramana21/deep-learning) - CNN, LSTM, segmentation, fraud detection.  
+- [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing) - Sentiment analysis, language identification.
+- [Computer Vision](https://github.com/RioPramana21/computer-vision) - Image classification, object detection, OpenCV.  
+- [Data Science with R](https://github.com/RioPramana21/data-science-with-r) - R-based analysis and modeling.
 
 ---
 
