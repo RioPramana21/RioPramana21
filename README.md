@@ -87,6 +87,8 @@ Currently transitioning into **Software Engineering (Backend/Web)** with strong 
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
+Python • Java • PHP • JavaScript • SQL • C
+
 ---
 
 ### **Backend & Web Development**
@@ -97,10 +99,14 @@ Currently transitioning into **Software Engineering (Backend/Web)** with strong 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe-009688?logo=frappe&logoColor=white)
 
+Laravel • Flask • HTML • CSS • Bootstrap • Frappe Framework
+
 ![REST API](https://img.shields.io/badge/REST%20API-0052CC?logo=azuredevops&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC%20Architecture-000000?logo=dependabot&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade%20Templates-FF2D20?logo=laravel&logoColor=white)
 ![Eloquent](https://img.shields.io/badge/Eloquent%20ORM-FF2D20?logo=laravel&logoColor=white)
+
+REST API • MVC Architecture • Blade • Eloquent ORM
 
 ---
 
@@ -108,6 +114,8 @@ Currently transitioning into **Software Engineering (Backend/Web)** with strong 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+
+MySQL • PostgreSQL • MariaDB
 
 ---
 
@@ -118,11 +126,15 @@ Currently transitioning into **Software Engineering (Backend/Web)** with strong 
 ![LangChain](https://img.shields.io/badge/LangChain-1F6FEB?logo=chainlink&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
 
+scikit-learn • TensorFlow • PyTorch • LangChain • Transformers
+
 ![SHAP](https://img.shields.io/badge/SHAP-000000?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-48A23F?logo=pandas&logoColor=white)
+
+ SHAP • Pandas • NumPy • OpenCV • GeoPandas
 
 ---
 
@@ -132,10 +144,14 @@ Currently transitioning into **Software Engineering (Backend/Web)** with strong 
 ![Linux](https://img.shields.io/badge/Linux%20(Debian)-A81D33?logo=debian&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
+Git • GitHub • Linux (Debian) • Postman
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-003D73?logo=hitachi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
+
+Jupyter Notebook • Pentaho • Streamlit • Tableau
 
 ---
 
