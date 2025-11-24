@@ -1,5 +1,5 @@
-# Hi, I'm Rio! 👋  
-**Computer Science Graduate | AI & Data Science Enthusiast**  
+# Hi, I'm Rio Pramana! 👋  
+**Software Engineer (Backend & Web) with AI/ML Engineering Strength**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/riopramana/">
@@ -11,117 +11,146 @@
   </a>
 </p>
 
-🎓 **S.Kom. (B.Sc.) Computer Science (AI Focus)** - BINUS University, Exchange Student at Sungkyunkwan University (SKKU)  
-🧠 Passionate about solving real-world problems with **Machine Learning, NLP, and Data Science**  [![GitHub Rio](https://img.shields.io/github/followers/RioPramana21?label=follow&style=social)](https://github.com/RioPramana21)
+🎓 **Computer Science Graduate** @ BINUS University  
+🌍 Exchange Student @ Sungkyunkwan University (SKKU), South Korea  
+💼 Former **AI Researcher & Backend Developer** @ Toba Consulting Services  
 
-📍 Based in Jakarta, GMT+7
+Currently transitioning into **Software Engineering (Backend/Web)** with strong foundations in **AI Engineering & Machine Learning**  
+📍 Jakarta, Indonesia (GMT+7)
 
 ---
 
-## 🚀 Featured Projects
-My top works showcasing **real-world problem solving, AI/ML expertise, and deployment**.
+# Software Engineering & Backend Projects
+
+- **[E-Grocery Website](https://github.com/RioPramana21/E-Grocery-Website)**  
+  Full-stack Laravel application with authentication, role-based access control (RBAC), and clean CRUD flows for shopping cart management. Focus on maintainable MVC architecture and robust database design.
+  *PHP • Laravel • MySQL • MVC • RBAC*
+
+- **[Airplane Mode ERP](https://github.com/RioPramana21/airplane_mode)**  
+  Backend/business app built on the **Frappe Framework**. Implements complex CRUD flows, doctypes, and server-side logic.  
+  *Python • Frappe • ERPNext • Backend Engineering*
+
+- **[LaForant - Valorant Website Mockup](https://github.com/RioPramana21/LaForant-Valorant-Frontend-Mockup-)**  
+  Frontend-only project recreating Valorant’s landing experience with responsive layout and smooth animations + form validations using JS.  
+  *HTML • CSS • JavaScript (jQuery)*  
+
+- **Keyword Web Scraper** *(Private)*  
+  Developed a high-speed Python scraper capable of concurrently retrieving data from 7,000+ pages in under 5 minutes for keyword analysis.  
+  *Python • Web Scraping • Concurrency*
+
+---
+
+# 🤖 Applied AI Projects
+
+- **[ThesisBuddy (Alibaba GenAI Hackathon)](https://github.com/RioPramana21/ThesisBuddy)**  
+  RAG-based academic assistant using LLMs (Qwen models) and LangChain for vector search and retrieval from custom documents.  
+  *Python • LangChain • Vector DB • RAG*
 
 - **[Breaking Bottlenecks: Predicting Late Deliveries at Olist](https://github.com/PurwadhikaDev/AlphaGroup_DTI_OL_02_FinalProject)**  
-  Real-world e-commerce late-delivery prediction for Olist (Brazil) using Random Forest + operational diagnostics. Delivered actionable business strategies, Tableau dashboard, and a Streamlit app.  
-  *Python • ML • Streamlit • Tableau*
+  End-to-end ML system for predicting e-commerce late deliveries, including EDA, feature engineering, cross-validation, and deployment via a Streamlit app.  
+  *Python • ML • Streamlit • Tableau • Business Analytics*
 
-- **[Ctrl+Price: ML-Powered Used Car Price Optimization](https://github.com/RioPramana21/Ctrl-Price-Taking-Control-of-Used-Car-Valuations-with-ML)**  
-  Predicted fair market prices for used cars in Saudi Arabia with CatBoost & SHAP explainability. Streamlit app for instant predictions.  
-  *Python • ML • SHAP • Streamlit*
+- **[Ctrl+Price - Used Car Price Optimization](https://github.com/RioPramana21/Ctrl-Price-Taking-Control-of-Used-Car-Valuations-with-ML)**  
+  Predicted fair market prices using CatBoost, featuring SHAP explainability and a deployed Streamlit app for batch car pricing.  
+  *Python • ML Pipelines • SHAP • Streamlit*
 
-- **[ThesisBuddy (Alibaba GenAI Hackathon Project)](https://github.com/RioPramana21/ThesisBuddy)**  
-  Generative AI tool using RAG + LLM to help students plan and write their thesis.  
-  *Python • LLM • RAG*
+- **Video Script Crew** *(Private)* - Multi-agent AI system using CrewAI to automate research and generate video scripts.  
+  *Python • Multi-Agent Systems • CrewAI*
 
-- **[Beyond the Crowd: Airbnb Hidden Gems in Bangkok](https://github.com/RioPramana21/Beyond-the-Crowd-How-to-Spot-Airbnb-Hidden-Gems-Set-Winning-Prices-in-Bangkok)**  
-  Geospatial & pricing analysis to identify profitable Airbnb neighborhoods.  
-  *Python • Geospatial • Tableau*
+## Other AI Projects:
 
-- **[Insurance Charges Analysis & Prediction](https://github.com/RioPramana21/data-science-with-r/tree/main/Analyzing%20Insurance%20Charges%20and%20Building%20Predictive%20Model)** *(Inside [Data Science with R](https://github.com/RioPramana21/data-science-with-r))*  
-  Final SKKU project - statistical tests, regression diagnostics, residual analysis, and Random Forest model for predicting insurance charges.  
-  *R • EDA • Regression • Random Forest*
-
-- **[Emotion Recognition on Indonesian Reviews using BERT & Ensemble](https://github.com/RioPramana21/natural-language-processing/tree/main/(Thesis)%20Emotion%20Recognition%20on%20Indonesian%20Product%20Review%20using%20BiLSTM%2C%20BERT%2C%20and%20Ensemble%20Method)** *(Inside [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing))*  
-  Undergraduate thesis published in an international journal - compared BiLSTM, BERT, and ensemble methods for Indonesian text emotion recognition.  
-  *Python • NLP • Deep Learning • Research Publication*
+- **[Emotion Recognition on Indonesian Reviews (Published Research)](https://github.com/RioPramana21/natural-language-processing/tree/main/(Thesis)%20Emotion%20Recognition%20on%20Indonesian%20Product%20Review%20using%20BiLSTM%2C%20BERT%2C%20and%20Ensemble%20Method)**  
+  Compared BiLSTM, BERT, and ensemble methods for emotion detection in Indonesian text.  
+  *NLP • Deep Learning • Research*
 
 - **[Neural Network Fraud Detection](https://github.com/RioPramana21/deep-learning/blob/main/Neural%20Network%20Predict%20Fraud.ipynb)** *(Inside [Deep Learning](https://github.com/RioPramana21/deep-learning))*  
   Custom PyTorch architecture for fraud classification, with manual tuning and network structure modifications.  
   *Python • PyTorch • Neural Networks*
 
----
+- **[Insurance Charges Analysis & Prediction](https://github.com/RioPramana21/data-science-with-r/tree/main/Analyzing%20Insurance%20Charges%20and%20Building%20Predictive%20Model)** *(Inside [Data Science with R](https://github.com/RioPramana21/data-science-with-r))*  
+  Final SKKU project - statistical tests, regression diagnostics, residual analysis, and Random Forest model for predicting insurance charges.  
+  *R • EDA • Regression • Random Forest*
 
-## 📂 Other AI, Data, and Engineering Projects
-
-### **AI & Data**
-- **Video Script Crew** *(Private)* - Multi-agent AI system using CrewAI to automate research and generate video scripts.  
-  *Python • Multi-Agent Systems • Internship*
-
-- **Keyword Web Scraper** *(Private)* - Scraped 7,000+ pages in under 5 minutes for keyword analysis.  
-  *Python • Web Scraping • Internship*
-
-- **Hackathon Dataset Scraper** *(Private)* - Crawled and categorized thousands of datasets for hackathon preparation.  
-  *Python • HTML • Internship*
-
-- [Database Systems](https://github.com/RioPramana21/database-systems) - SQL practice and a real-world case project.  
-  *SQL • Academic*
-
----
-
-### **Engineering, Web & UI**
-- [Airplane Mode](https://github.com/RioPramana21/airplane_mode) - Certified Frappe Developer final project.  
-  *Python • Frappe Framework*
-
-- [Freelancer Management System](https://github.com/RioPramana21/Freelancer-Management-System) - Python CRUD app for freelancer data management.  
-  *Python • Bootcamp*
-
-- [Computer Architectures](https://github.com/RioPramana21/computer-architectures) - RISC-V simulator in Python.  
-  *Python • Academic*
-
-- [Java OOP](https://github.com/RioPramana21/java-oop) - Object-Oriented Programming exercises.  
-  *Java • Academic*
-
-- [Web Programming](https://github.com/RioPramana21/web-programming) - Laravel, HTML, CSS, JavaScript.  
-  *PHP • Web Development*
-
-- [UI/UX Design Portfolio](https://github.com/RioPramana21/ui-ux-design) - UI/UX mockups & design works.  
-  *UI/UX • Design Tools*
-
----
-
-## 📚 Learning & Practice Repos
-Collections of experiments, exercises, and projects from my university classes.
-
-- [Machine Learning](https://github.com/RioPramana21/machine-learning) - Supervised & unsupervised learning exercises.  
-- [Deep Learning](https://github.com/RioPramana21/deep-learning) - CNN, LSTM, segmentation, fraud detection.  
-- [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing) - Sentiment analysis, language identification.
-- [Computer Vision](https://github.com/RioPramana21/computer-vision) - Image classification, object detection, OpenCV.  
-- [Data Science with R](https://github.com/RioPramana21/data-science-with-r) - R-based analysis and modeling.
+- **[Beyond the Crowd: Airbnb Hidden Gems](https://github.com/RioPramana21/Beyond-the-Crowd-How-to-Spot-Airbnb-Hidden-Gems-Set-Winning-Prices-in-Bangkok)**  
+  Geospatial + pricing analysis for optimal Airbnb investment zones.  
+  *Python • Geospatial • Analytics • Tableau*
 
 ---
 
 ## 🛠️ Tech Stack
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  ![Frappe](https://img.shields.io/badge/Frappe-009688?logo=frappe&logoColor=white)  
-
-**Languages:** Python, R, SQL, Java, JavaScript, C, HTML, CSS
-
-**Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-
-**Visualization:** Tableau, Matplotlib, Seaborn, Geopandas  
-
-**Other Tools:** Git/Github, Streamlit, Flask, Frappe, PostgreSQL, MariaDB, OpenCV
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
-![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioPramana21&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RioPramana21&layout=compact&theme=tokyonight)
+### **Backend & Web Development**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-009688?logo=frappe&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST%20API-0052CC?logo=azuredevops&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-000000?logo=dependabot&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade%20Templates-FF2D20?logo=laravel&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent%20ORM-FF2D20?logo=laravel&logoColor=white)
 
 ---
 
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/riopramana/)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:riopramana1021@gmail.com)
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+
+---
+
+### **AI / ML Libraries**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F6FEB?logo=chainlink&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
+
+![SHAP](https://img.shields.io/badge/SHAP-000000?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-48A23F?logo=pandas&logoColor=white)
+
+---
+
+### **Dev Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20(Debian)-A81D33?logo=debian&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-003D73?logo=hitachi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
+
+---
+
+# 📚 Learning Repositories  
+*(University + self-study practice)* 
+- [Java OOP](https://github.com/RioPramana21/java-oop)   
+- [Machine Learning](https://github.com/RioPramana21/machine-learning)  
+- [Deep Learning](https://github.com/RioPramana21/deep-learning)  
+- [Natural Language Processing](https://github.com/RioPramana21/natural-language-processing)  
+- [Computer Vision](https://github.com/RioPramana21/computer-vision)  
+- [Data Science with R](https://github.com/RioPramana21/data-science-with-r)  
+- [Computer Architectures](https://github.com/RioPramana21/computer-architectures)
+
+---
+
+# 📊 GitHub Stats
+![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RioPramana21&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RioPramana21&layout=compact&theme=tokyonight)
